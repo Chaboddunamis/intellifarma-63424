@@ -22,7 +22,7 @@ sections:
       best image recognition technology to accurately detect tropical crop
       diseases, animal diseases and optimally analyze soil profile and texture,
       making recommendation for improved farm practices in the native languages
-      of 
+      of Nigerian farmers.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
