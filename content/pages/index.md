@@ -17,12 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Intellifarma AI Advisor utilizes proprietary predictive models and the
-      best image recognition technology to accurately detect tropical crop
-      diseases, animal diseases and optimally analyze soil profile and texture,
-      making recommendation for improved farm practices in the native languages
-      of Nigerian farmers.
+    subtitle: ''
     features:
       - title: 'Software Capabilities:'
         image: images/feature1.png
