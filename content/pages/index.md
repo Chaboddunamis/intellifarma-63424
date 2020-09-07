@@ -24,7 +24,7 @@ sections:
       making recommendation for improved farm practices in the native languages
       of Nigerian farmers.
     features:
-      - title: The Best Feature of Your Services
+      - title: ''
         image: images/feature1.png
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
