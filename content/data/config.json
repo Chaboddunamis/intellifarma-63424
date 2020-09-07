@@ -23,16 +23,16 @@
                 "url": "/style-guide"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "primary": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
+            },
+            {
+                "label": "Sign Up",
+                "url": "/signup",
+                "primary": true
             }
         ],
         "logo_img": "images/intellifarma.png"
