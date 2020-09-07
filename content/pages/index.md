@@ -48,9 +48,15 @@ sections:
       - title: Access. Efficiency.
         image: images/smartmockups_kess5oq1.jpg
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          The web and mobile application will be accessible on Google Play Store
+          and App Store. The cutting-edge application will operate on most
+          devices and will be capable of providing critical analyses
+          irrespective of mobile phone access using the web platform.
+
+
+          The web platform is a SaaS with monthly subscriptions while the mobile
+          application will have both subscription modules and Pay-As-You-Use
+          modules.
         actions:
           - label: Learn More
             url: /features
