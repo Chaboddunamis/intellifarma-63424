@@ -1,6 +1,6 @@
 {
     "title": "Intellifarma AI",
-    "path_prefix": "/home",
+    "path_prefix": "",
     "palette": "green",
     "header": {
         "title": "IntelliFarma AI Farm Advisor",
