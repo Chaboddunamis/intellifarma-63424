@@ -30,15 +30,11 @@ sections:
           ■ **Agro-extension services in four languages**: Hausa, Igbo, Yoruba,
           and English languages. 
 
-
           ■**Crop disease detection** using image recognition. 
-
 
           ■**Animal disease detection** using image recognition. 
 
-
           ■**Soil profile analysis and evaluation**.
-
 
           ■**Recommendations** for each application(treatment, crop suitability,
           management practices etc).
