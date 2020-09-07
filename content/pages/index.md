@@ -45,7 +45,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Access. Efficiency.
+      - title: Pricing
         image: images/smartmockups_kess5oq1.jpg
         content: >-
           The web and mobile application will be accessible on Google Play Store
