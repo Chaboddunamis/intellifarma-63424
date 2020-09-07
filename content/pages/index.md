@@ -45,7 +45,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: ''
+      - title: Access
         image: images/smartmockups_kess5oq1.jpg
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
