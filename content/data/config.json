@@ -39,7 +39,7 @@
     },
     "footer": {
         "logo_img": "images/Copy of intellifarma.png",
-        "tagline": "SaaS theme by Stackbit",
+        "tagline": "",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
