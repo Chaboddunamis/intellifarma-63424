@@ -59,10 +59,15 @@ sections:
             url: /features
       - title: Improve Your Productivity Through Machine Learning!
         image: images/feature3.png
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          ▣ Scale farming practices using predictive AI.
+
+
+          ▣ Rural farmers will have much needed access to quality extension
+          services beyond the language barrier!
+
+          ▣ Users can now keep in touch with the farming conditions and
+          micromanage changes in their farm architectures.
         actions:
           - label: Learn More
             url: /features
