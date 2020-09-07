@@ -57,7 +57,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: 'Revolutionalizing farming practices '
+      - title: 'Revolutionalizing farming practices through machine learning '
         image: images/feature3.png
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
