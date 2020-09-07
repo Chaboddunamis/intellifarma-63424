@@ -75,7 +75,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Try Intellifarma Now!
-    subtitle: 'Go ahead and apply '
+    subtitle: Go ahead and apply the web or mobile app
     actions:
       - label: Get Started
         url: /signup
