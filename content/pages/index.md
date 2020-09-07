@@ -58,7 +58,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Improve Your Productivity Through Machine Learning!
-        image: images/feature3.png
+        image: images/Top-10-Most-Popular-Spoken-Languages-in-Nigeria.jpg
         content: >
           ▣ Scale farming practices using predictive AI.
 
