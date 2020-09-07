@@ -79,7 +79,7 @@ sections:
       Go ahead and apply the web or mobile application softwares to meet your
       farming needs!
     actions:
-      - label: Get Started
+      - label: Download
         url: /signup
         primary: true
   - section_id: recent-posts
