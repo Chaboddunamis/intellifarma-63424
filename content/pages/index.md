@@ -75,7 +75,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Try Intellifarma Now!
-    subtitle: Go ahead and apply the web or mobile app
+    subtitle: >-
+      Go ahead and apply the web or mobile application softwares to meet your
+      farming needs.
     actions:
       - label: Get Started
         url: /signup
