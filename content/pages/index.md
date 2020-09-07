@@ -6,8 +6,9 @@ sections:
     image: images/hero.png
     title: Complete Farm Advisory Through Artificial Intelligence
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Intellifarma is a precision agriculture software that detects crop and
+      animal diseases, optimizes soil profile and advises effective farming
+      practices.
     actions:
       - label: Learn More
         url: /features
