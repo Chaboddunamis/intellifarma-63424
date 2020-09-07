@@ -66,6 +66,7 @@ sections:
           ▣ Rural farmers will have much needed access to quality extension
           services beyond the language barrier!
 
+
           ▣ Users can now keep in touch with the farming conditions and
           micromanage changes in their farm architectures.
         actions:
