@@ -20,7 +20,8 @@ sections:
     subtitle: >-
       Intellifarma AI Advisor utilizes proprietary predictive models and the
       best image recognition technology to accurately detect tropical crop
-      diseases, animal diseases and 
+      diseases, animal diseases and optimally analyze soil profile and texture,
+      making recommendation for improved farm practices in the native langua
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
