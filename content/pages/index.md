@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: h
+  - section_id: hero
     type: section_hero
     image: images/hero.png
     title: Complete Farm Advisory Through Artificial Intelligence
