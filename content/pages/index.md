@@ -27,21 +27,21 @@ sections:
       - title: 'Software Capabilities:'
         image: images/feature1.png
         content: >-
-          1] **Agro-extension services in four languages**: Hausa, Igbo, Yoruba,
+          ■ **Agro-extension services in four languages**: Hausa, Igbo, Yoruba,
           and English languages. 
 
 
-          2]**Crop disease detection** using image recognition. 
+          ■**Crop disease detection** using image recognition. 
 
 
-          3]**Animal disease detection** using image recognition. 
+          ■**Animal disease detection** using image recognition. 
 
 
-          4]**Soil profile analysis and evaluation**.
+          ■**Soil profile analysis and evaluation**.
 
 
-          5]**Recommendations** for each application(treatment, crop
-          suitability, management practices etc).
+          ■**Recommendations** for each application(treatment, crop suitability,
+          management practices etc).
         actions:
           - label: Learn More
             url: /features
