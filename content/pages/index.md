@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/hero.png
-    title: Revolutionalizi
+    title: >-
+      Revolutionalizing Farming Practice In Nigeria Using Cutting Edge
+      Technology
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
