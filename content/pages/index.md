@@ -31,7 +31,7 @@ sections:
           and English languages. 
 
 
-          2]** Crop disease detection** using image recognition. 
+          2]**Crop disease detection** using image recognition. 
 
 
           3]**Animal disease detection** using image recognition. 
