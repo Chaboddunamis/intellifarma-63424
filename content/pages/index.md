@@ -25,7 +25,7 @@ sections:
       of Nigerian farmers.
     features:
       - title: 'Software Capabilities:'
-        image: images/feature1.png
+        image: images/5a0c4a348e8f5.jpg
         content: >-
           ■ **Agro-extension services in four languages**: Hausa, Igbo, Yoruba,
           and English languages.
