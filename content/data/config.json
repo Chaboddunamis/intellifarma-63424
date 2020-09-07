@@ -3,7 +3,7 @@
     "path_prefix": "/home",
     "palette": "green",
     "header": {
-        "title": "IntelliFarma ",
+        "title": "IntelliFarma AI Farm Advisor",
         "has_nav": true,
         "nav_links": [
             {
