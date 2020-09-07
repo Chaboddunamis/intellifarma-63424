@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: >-
       Intellifarma AI Advisor utilizes proprietary predictive models and the
-      best image recognition technology to make 
+      best image recognition technology to make p
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
