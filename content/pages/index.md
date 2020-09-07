@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/smartmockups_kessdcyq.jpg
+    image: images/smartmockups_kest64up.jpg
     title: Complete Farm Advisory Through Artificial Intelligence
     content: >-
       Intellifarma is a precision agriculture software that detects crop and
