@@ -57,7 +57,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: INCREDI
+      - title: 'INCREDIBLE '
         image: images/feature3.png
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
