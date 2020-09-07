@@ -74,7 +74,7 @@ sections:
             url: /features
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: 'Download '
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
