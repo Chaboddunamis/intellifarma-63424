@@ -1,6 +1,6 @@
 {
     "title": "Intellifarma AI",
-    "path_prefix": "/",
+    "path_prefix": "/home",
     "palette": "green",
     "header": {
         "title": "Azimuth",
