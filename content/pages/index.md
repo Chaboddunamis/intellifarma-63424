@@ -77,7 +77,7 @@ sections:
     title: Try Intellifarma Now!
     subtitle: >-
       Go ahead and apply the web or mobile application softwares to meet your
-      farming needs.
+      farming needs!
     actions:
       - label: Get Started
         url: /signup
