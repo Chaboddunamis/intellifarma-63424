@@ -57,7 +57,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: 'INCREDIBLE '
+      - title: 'Revolutionalizing '
         image: images/feature3.png
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
