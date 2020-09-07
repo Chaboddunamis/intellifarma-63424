@@ -27,7 +27,8 @@
                 "url": "/signup",
                 "primary": true
             }
-        ]
+        ],
+        "logo_img": "images/intellifarma.png"
     },
     "footer": {
         "logo_img": "images/logo_alt.png",
