@@ -27,9 +27,21 @@ sections:
       - title: 'Software Capabilities:'
         image: images/feature1.png
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          1] Agro-extension services in four languages: Hausa, Igbo, Yoruba, and
+          English languages. Farm management techniques and extensive farming
+          education constitute advisory context.
+
+
+          2] Crop disease detection using image recognition. Recommendations on
+          treatment apply.
+
+
+          3]Animal disease detection using image recognition. Recommendations on
+          treatment apply.
+
+
+          4]Soil profile analysis and evaluation along with recommendations on
+          suitability, management and enhancement techniques.
         actions:
           - label: Learn More
             url: /features
