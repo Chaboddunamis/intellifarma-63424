@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: 'Intellifarma '
+    subtitle: 'Intellifarma AI '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
