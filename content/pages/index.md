@@ -82,6 +82,7 @@ sections:
       - label: Download
         url: /signup
         primary: true
+        new_window: true
   - section_id: recent-posts
     type: section_posts
     background: gray
