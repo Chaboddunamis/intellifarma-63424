@@ -85,7 +85,7 @@
         "content": "&copy; Stackbit. All rights reserved.",
         "links": [
             {
-                "label": "Made with Stackbit",
+                "label": "",
                 "url": "https://www.stackbit.com",
                 "new_window": true
             }
